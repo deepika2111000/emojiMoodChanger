@@ -1,0 +1,41 @@
+.container{
+  text-align: center;
+  padding: 40px;
+  height: 100vh;
+  background-color:rgb(111, 189, 189);
+  
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+  margin: 20px 0;
+}
+
+.btn{
+  padding: 10px 20 px;
+  margin: 8px;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+
+.happy{
+  background-color: rgb(76, 170, 91);
+}
+
+.sad{
+  background-color: rgb(167, 168, 67);
+}
+
+.excite{
+  background-color: rgb(163, 74, 159);
+}
+
+.angry{
+  background-color: rgb(139, 63, 63);
+}
+
+.box{
+  margin-top: 30px;
+  font-size: 24px;
+}
